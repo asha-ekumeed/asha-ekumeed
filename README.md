@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asha-ekumeed
+- 👋 Hi, I’m Ajeet Kumar from @asha-ekumeed
 - 👀 I’m interested in providing free social learning platform.
 - 🌱 I’m currently learning HTML, CSS , PHP, mySQL
 - 💞️ I’m looking to collaborate on LMS Websites
